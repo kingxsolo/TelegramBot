@@ -1,0 +1,11 @@
+{
+  "الاسم": "تلجرام_بوت",
+  "النسخة": "1.0.0",
+  "الوصف": "مكتبة عربية شاملة للتعامل مع Telegram Bot API بلغة Solan",
+  "المؤلف": "kingxsolo",
+  "الرخصة": "MIT",
+  "المستودع": "https://github.com/kingxsolo/TelegramBot",
+  "الصفحة": "https://github.com/kingxsolo/TelegramBot",
+  "المدخل": "رئيسي.سو",
+  "الاعتماديات": {}
+}

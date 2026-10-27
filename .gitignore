@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+جلسات.json
+*.log
+.DS_Store
